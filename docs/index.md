@@ -12,9 +12,11 @@ title: Ty Thomas' Resume
 
 
 Raised in a heavily work orientated lifestyle and trained to become a jack-of-all-trades. Pursuing crop and soil sciences to positively impact the community and those malnourished throughout the world.  Plans to obtain a master’s degree in data science which will compliment a future doctorate in plant genetics.   Working towards a research management position in the agricultural sector. Has always been interested in learning new trades and doing the best work possible. Highly analytical and has enjoyed the many opportunities given to lead and serve others. 
-## Education
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+
+## Education
+
 
 `2012 - 2016`
 __High School Diploma__, Van Meter, IA
