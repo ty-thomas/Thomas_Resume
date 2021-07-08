@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Ty Thomas' Resume
 ---
 # Ty Thomas
