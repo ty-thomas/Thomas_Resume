@@ -69,6 +69,16 @@ __Science Tutor__, BYU-I
 `2016-2018`
 __Service Missionary__, Mexico
 
+## Skills and Honors
+- Microsoft Excel
+- Fluent in Spanish
+- Mathematical aptitude
+- Effective time management
+- Analytical reasoning
+- Python and SQL
+- Eagle Scout
+
+
 
 
 <!-- ### Footer
