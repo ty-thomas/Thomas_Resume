@@ -17,9 +17,9 @@ Raised in a heavily work orientated lifestyle and trained to become a jack-of-al
 
 ## Education
 
-
+### High School Diploma
 `2012 - 2016`
-__High School Diploma__, Van Meter, IA
+__Van Meter High School__, Van Meter, IA
 
 - 4.2 GPA
 - Involved in music and cross country
@@ -70,6 +70,7 @@ __Science Tutor__, BYU-I
 __Service Missionary__, Mexico
 
 ## Skills and Honors
+
 - Microsoft Excel
 - Fluent in Spanish
 - Mathematical aptitude
