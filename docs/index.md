@@ -6,7 +6,6 @@ title: Ty Thomas' Resume
 
 <div id="webaddress">
 <a href="tyspencerthomas@gmail.com">tyspencerthomas@gmail.com</a>
-| <a href="https://ty-thomas.github.io/THOMAS-resume/">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/tyspencerthomas">Linkedin</a>
 </div>
 
@@ -94,6 +93,8 @@ __Service Missionary__, Mexico
 - Former member of the National Honor Society
 - All-State musician
 - Full academic scholarship
+
+References available upon request
 
 
 <!-- ### Footer
