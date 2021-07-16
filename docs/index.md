@@ -26,12 +26,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Other noteworthy courses include economics, GIS, and chemistry
 
 
-### High School Diploma
-`2012 - 2016`
-__Van Meter High School__, Van Meter, IA
-
-- 4.2/4.0 GPA
-- Involved in music and cross country
 
 
 ## Related Experience
@@ -41,7 +35,7 @@ __Van Meter High School__, Van Meter, IA
 `April 2020 – December 2020`
 __Bayer Crop Science__, Huxley, IA
 
-- Utilized cutting-edge technology to collect data and clean inconsistencies and inaccuracies within datasets
+- Utilized cutting-edge technology to collect data and clean inconsistencies and inaccuracies within datasets(maybe mention what the technologies are)
 - Researched and implemented modern forms of plant breeding
 - Organized, taught, and managed teams for data collection and other agricultural projects
 
@@ -49,14 +43,14 @@ __Bayer Crop Science__, Huxley, IA
 __The Context Network__, Cary, NC
 
 - Translated the company website from English to Spanish
-- Researched, collected, organized, and analyzed data for clients using MS excel
+- Researched, collected, organized, and analyzed data for clients using MS excel(provide numbers, like how much data, what were the results, etc)
 
 ### Property Management Supervisor 
 
 `April 2013 – August 2016`
 __Bluebird Properties__, Van Meter, IA
 
-- Managed and supervised a team to ensure effective usage of time
+- Managed and supervised a team to ensure effective usage of time(how many in the team)
 - Successfully taught members of a team how to carry-out landscaping tasks
 
 ## Service
