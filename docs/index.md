@@ -35,22 +35,23 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `April 2020 – December 2020`
 __Bayer Crop Science__, Huxley, IA
 
-- Utilized cutting-edge technology to collect data and clean inconsistencies and inaccuracies within datasets(maybe mention what the technologies are)
-- Researched and implemented modern forms of plant breeding
+- Utilized cutting-edge technology such as UAV sensors to collect data and clean inconsistencies and inaccuracies within datasets
+- Researched and implemented modern forms of plant breeding and genetics
 - Organized, taught, and managed teams for data collection and other agricultural projects
 
 `August 2019 - December 2019`
 __The Context Network__, Cary, NC
 
 - Translated the company website from English to Spanish
-- Researched, collected, organized, and analyzed data for clients using MS excel(provide numbers, like how much data, what were the results, etc)
+- Researched the sustainability goals, plans, and success of global agricultural companies building a hypothetical sustainability plan
+- Aided buisness consultants with data collection, organization, and analysis using MS excel
 
 ### Property Management Supervisor 
 
 `April 2013 – August 2016`
 __Bluebird Properties__, Van Meter, IA
 
-- Managed and supervised a team to ensure effective usage of time(how many in the team)
+- Managed and supervised teams of 2-5 young men to ensure effective usage of time and quality work
 - Successfully taught members of a team how to carry-out landscaping tasks
 
 ## Service
@@ -58,7 +59,7 @@ __Bluebird Properties__, Van Meter, IA
 `July 2016 - July 2018`
 __Service Missionary__, Mexico
 - Collaborated with church leaders to better the community
-- Lead, instructed, and supported all the missionaries in a geological area
+- Lead, instructed, and supported all the missionaries in a geographical area
 
 ## Skills
 
