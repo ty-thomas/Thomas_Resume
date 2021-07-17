@@ -26,12 +26,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Other noteworthy courses include economics, GIS, and chemistry
 
 
-### High School Diploma
-`2012 - 2016`
-__Van Meter High School__, Van Meter, IA
-
-- 4.2/4.0 GPA
-- Involved in music and cross country
 
 
 ## Related Experience
@@ -41,22 +35,23 @@ __Van Meter High School__, Van Meter, IA
 `April 2020 – December 2020`
 __Bayer Crop Science__, Huxley, IA
 
-- Utilized cutting-edge technology to collect data and clean inconsistencies and inaccuracies within datasets
-- Researched and implemented modern forms of plant breeding
+- Utilized cutting-edge technology such as UAV sensors to collect data and clean inconsistencies and inaccuracies within datasets
+- Researched and implemented modern forms of plant breeding and genetics
 - Organized, taught, and managed teams for data collection and other agricultural projects
 
 `August 2019 - December 2019`
 __The Context Network__, Cary, NC
 
 - Translated the company website from English to Spanish
-- Researched, collected, organized, and analyzed data for clients using MS excel
+- Researched the sustainability goals, plans, and success of global agricultural companies building a hypothetical sustainability plan
+- Aided buisness consultants with data collection, organization, and analysis using MS excel
 
 ### Property Management Supervisor 
 
 `April 2013 – August 2016`
 __Bluebird Properties__, Van Meter, IA
 
-- Managed and supervised a team to ensure effective usage of time
+- Managed and supervised teams of 2-5 young men to ensure effective usage of time and quality work
 - Successfully taught members of a team how to carry-out landscaping tasks
 
 ## Service
@@ -64,7 +59,7 @@ __Bluebird Properties__, Van Meter, IA
 `July 2016 - July 2018`
 __Service Missionary__, Mexico
 - Collaborated with church leaders to better the community
-- Lead, instructed, and supported all the missionaries in a geological area
+- Lead, instructed, and supported all the missionaries in a geographical area
 
 ## Skills
 
