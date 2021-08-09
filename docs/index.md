@@ -64,7 +64,7 @@ __Service Missionary__, Mexico
 ## Skills
 
 ### Agronomic
-- Experience in farm labor operating heavy machinery
+- Experience in farm labor and operating agricultural equipment
 - Understanding of research methods
 - Experience in soybean and maize data collection
 - Soil analysis and fertility
@@ -84,7 +84,7 @@ __Service Missionary__, Mexico
 ## Honors
 
 - Eagle Scout
-- Former member of the National Honor Society
+- Member of The National Honor Society
 - All-State musician
 - Full academic scholarship
 
