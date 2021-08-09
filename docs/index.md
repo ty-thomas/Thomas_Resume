@@ -9,7 +9,7 @@ title: Ty Thomas' Resume
 | <a href="https://www.linkedin.com/in/tyspencerthomas">Linkedin</a>
 </div>
 
-Raised in a heavily work orientated lifestyle and trained to become a jack-of-all-trades. Pursuing crop and soil sciences to positively impact the community and those malnourished throughout the world.  Plans to obtain a master’s degree in data science which will compliment a future doctorate in plant genetics.   Working towards a research management position in the agricultural sector. Has always been interested in learning new trades and doing the best work possible. Highly analytical and has enjoyed the many opportunities given to lead and serve others. 
+Raised in a heavily work orientated lifestyle and trained to become a jack-of-all-trades. Pursuing crop and soil sciences to positively impact the community and those malnourished throughout the world.  Plans to obtain a master’s degree in data science which will compliment a future doctorate in plant genetics.   Working towards a research management position in the agricultural sector. Intensely curious: Interested in learning new concepts and doing the best work possible. Highly analytical: Thrives on data and logical problem solving. People centric: Has enjoyed many opportunities given to lead and serve others. 
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
@@ -44,7 +44,7 @@ __The Context Network__, Cary, NC
 
 - Translated the company website from English to Spanish
 - Researched the sustainability goals, plans, and success of global agricultural companies building a hypothetical sustainability plan
-- Aided buisness consultants with data collection, organization, and analysis using MS excel
+- Aided senior consultants with data collection, organization, and analysis using MS excel
 
 ### Property Management Supervisor 
 
@@ -59,20 +59,19 @@ __Bluebird Properties__, Van Meter, IA
 `July 2016 - July 2018`
 __Service Missionary__, Mexico
 - Collaborated with church leaders to better the community
-- Lead, instructed, and supported all the missionaries in a geographical area
+- Lead, instructed, and supported teams of 16+ missionaries
 
 ## Skills
 
 ### Agronomic
-- Knowledge of operating heavy machinery
+- Experience in farm labor operating heavy machinery
 - Understanding of research methods
-- Experienced in soybean and maize data collection
+- Experience in soybean and maize data collection
 - Soil analysis and fertility
 - Basic plant pathology
-- Experience in farm labor
 
 ### Data
-- Professional use of Microsoft Excel and Office 365
+- Professional use of Office 365 including MS Excel
 - Programming and data manipulation with Python 
 - Analyzing relational databases using SQL
 - Cleaning, organizing, and analyzing large datasets
