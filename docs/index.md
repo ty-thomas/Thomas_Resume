@@ -9,7 +9,7 @@ title: Ty Thomas' Resume
 | <a href="https://www.linkedin.com/in/tyspencerthomas">Linkedin</a>
 </div>
 
-Raised in a heavily work orientated lifestyle and trained to become a jack-of-all-trades. Pursuing crop and soil sciences to positively impact the community and those malnourished throughout the world.  Plans to obtain a master’s degree in data science which will compliment a future doctorate in plant genetics.   Working towards a research management position in the agricultural sector. Intensely curious: Interested in learning new concepts and doing the best work possible. Highly analytical: Thrives on data and logical problem solving. People centric: Has enjoyed many opportunities given to lead and serve others. 
+Raised in a heavily work orientated lifestyle and trained to become a jack-of-all-trades. Pursuing crop and soil sciences to positively impact the community and those malnourished throughout the world.  Plans to obtain a master’s degree in plant breeding with a focus on data science which will compliment a future doctorate in plant genetics.   Working towards a research management position in the agricultural sector. Intensely curious: Interested in learning new concepts and doing the best work possible. Highly analytical: Thrives on data and logical problem solving. People centric: Has enjoyed many opportunities given to lead and serve others. 
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
@@ -22,7 +22,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 4.0/4.0 GPA
 - Tutored both agronomic and general sciences
 - Agronomic course work in plant genetics and breeding, plant pathology, soil fertility, genetics and molecular biology, and precision agriculture
-- Data science course work with machine learning, statistics, python, SQL, MySQL, object-oriented programming, data cleaning, and data presentation
+- Data science course work with machine learning, statistics, python, SQL, MySQL, R, object-oriented programming, data cleaning, and data presentation
 - Other noteworthy courses include economics, GIS, and chemistry
 
 
@@ -72,7 +72,7 @@ __Service Missionary__, Mexico
 
 ### Data
 - Professional use of Office 365 including MS Excel
-- Programming and data manipulation with Python 
+- Programming and data manipulation with Python and R
 - Analyzing relational databases using SQL
 - Cleaning, organizing, and analyzing large datasets
 
