@@ -10,7 +10,7 @@ title: Ty Thomas' Resume
 | 515-988-6605
 </div>
 
-Raised in a heavily work orientated lifestyle and trained to become a jack-of-all-trades. Pursuing crop and soil sciences to positively impact the community and those malnourished throughout the world.  Plans to obtain a master’s degree in plant breeding with a focus on data science which will compliment a future doctorate in plant genetics.   Working towards a research management position in the agricultural sector. Intensely curious: Interested in learning new concepts and doing the best work possible. Highly analytical: Thrives on data and logical problem solving. People centric: Has enjoyed many opportunities given to lead and serve others. 
+Raised in a heavily work orientated lifestyle and trained to become a jack-of-all-trades. Pursuing crop and soil sciences to positively impact the community and those malnourished throughout the world.  Plans to obtain a doctorate degree in plant breeding and genetics with a focus on data science.   Working towards a research management position in the agricultural sector. Intensely curious: Interested in learning new concepts and doing the best work possible. Highly analytical: Thrives on data and logical problem solving. People centric: Has enjoyed many opportunities given to lead and serve others. 
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
