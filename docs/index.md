@@ -15,7 +15,7 @@ Raised in a heavily work orientated lifestyle and trained to become a jack-of-al
 ## Education
 
 ### PhD in Plant Breeding and Genetics
-`August 2022 - Present | Expected April 2027`
+`Expected April 2027`
 __North Carolina State University__, Raleigh, NC
 
 - Participates in organizations such as Corn Breeding Research and Maize Genetics Cooperation
