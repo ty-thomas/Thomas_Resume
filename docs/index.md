@@ -15,8 +15,7 @@ Raised in a heavily work orientated lifestyle and trained to become a jack-of-al
 ## Education
 
 ### PhD in Plant Breeding and Genetics
-`August 2022 - Present \nExpected April 2028`
-
+`August 2022 - Present | Expected April 2028`
 __North Carolina State University__, Raleigh, NC
 
 - Participates in organizations such as Corn Breeding Research and Maize Genetics Cooperation
@@ -27,7 +26,6 @@ __North Carolina State University__, Raleigh, NC
 
 ### BS in Agronomy minor in Data Science
 `April 2022`
-
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0/4.0 GPA
@@ -40,7 +38,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 ## Related Experience
-
 ### Research Assistant
 `August 2022 - Present`
 
@@ -64,9 +61,7 @@ __Independent Contractor - Duke University__, Duraham, NC
 - Advises the direction of reasearch to ensure useful and quality outcomes
 
 ### Internships
-
 `April 2020 – December 2020`
-
 __Bayer Crop Science__, Huxley, IA
 
 - Utilized cutting-edge technology such as UAV sensors to collect data and clean inconsistencies and inaccuracies within datasets
@@ -74,7 +69,6 @@ __Bayer Crop Science__, Huxley, IA
 - Organized, taught, and managed teams for data collection and other agricultural projects
 
 `August 2019 - December 2019`
-
 __The Context Network__, Cary, NC
 
 - Translated the company website from English to Spanish
@@ -84,14 +78,12 @@ __The Context Network__, Cary, NC
 ### Property Management Supervisor 
 
 `April 2013 – August 2016`
-
 __Bluebird Properties__, Van Meter, IA
 
 - Managed and supervised teams of 2-5 young men to ensure effective usage of time and quality work
 - Successfully taught members of a team how to carry-out landscaping tasks
 
 ## Service
-
 `July 2016 - July 2018`
 
 __Service Missionary__, Mexico
