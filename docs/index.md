@@ -40,7 +40,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Related Experience
 ### Research Assistant
 `August 2022 - Present`
-
 __North Carolina State University__, Raleigh, NC
 
 - Teaches and aids lab members in bioinformatics and data science
@@ -52,7 +51,6 @@ __North Carolina State University__, Raleigh, NC
 
 ### Congenital Heart Disease Board Member
 `April 2024 - Present`
-
 __Independent Contractor - Duke University__, Duraham, NC
 
 - Ensures good ethics are followed in regard to genetic work on families with heart disease
