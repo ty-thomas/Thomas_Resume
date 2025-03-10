@@ -9,13 +9,13 @@ title: Ty Thomas' Resume
 | <a href="https://www.linkedin.com/in/tyspencerthomas">Linkedin</a>
 | 515-988-6605
 </div>
-
+<br \>
 Aspires to make a positive impact on the community and combat global malnutrition through genetic research in the agriculture sector. 
-
+<br \>
 __Core Charactaristics__
 
-- _Values:_ Raised in a highly work-oriented lifestyle centered on integrity, respect, loyalty, and grit.
-- _Intensely curious:_ Interested in the continuous ccollection of knowledge enabling novel research.
+- _Values:_ Raised in a work-oriented lifestyle centered on integrity, respect, loyalty, and grit.
+- _Intensely curious:_ Engages in continuous collection of knowledge enabling novel research.
 - _Highly analytical:_ Thrives on analyzing large datasets and solving complex problems. 
 - _People centric:_ Has enjoyed many opportunities to lead and serve others.
 
