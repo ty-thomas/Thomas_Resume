@@ -124,7 +124,7 @@ __Service Missionary__, Mexico
 - Member of The National Honor Society
 - All-State musician
 
-References available upon request
+__References available upon request__
 
 
 <!-- ### Footer
