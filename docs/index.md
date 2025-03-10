@@ -94,12 +94,6 @@ __Service Missionary__, Mexico
 
 ## Skills
 
-### Agronomic
-- Experience in farm labor and operating agricultural equipment
-- Experience in soybean and maize data collection
-- Soil fertility and analysis
-- Basic plant pathology
-
 ### Data
 - Professional use of Office 365 including MS Excel
 - Programming and data analysis using Python and R
@@ -111,6 +105,12 @@ __Service Missionary__, Mexico
 - Bioinformatic workflows for processing DNA and RNA across various organisms.
 - Analysis including TWAS, variant calling, RNA-seq analysis, and statistical modeling
 - Genomic selection and predictive analysis using statistics and AI
+
+### Agronomic
+- Experience in farm labor and operating agricultural equipment
+- Experience in soybean and maize data collection
+- Soil fertility and analysis
+- Basic plant pathology
 
 ### Other Skills
 - Fluent in Spanish
