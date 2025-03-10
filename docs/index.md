@@ -10,6 +10,7 @@ title: Ty Thomas' Resume
 | 515-988-6605
 </div>
 
+\n
 Aspires to make a positive impact on the community and combat global malnutrition through genetic research in the agriculture sector. 
 
 __Core Charactaristics__
