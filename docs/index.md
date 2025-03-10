@@ -10,7 +10,14 @@ title: Ty Thomas' Resume
 | 515-988-6605
 </div>
 
-Raised in a highly work-oriented lifestyle centered on the values of integrity, respect, loyalty, and grit. With expertise in maize genetics and breeding, aspires to make a positive impact on the community and combat global malnutrition. Currently engaged in a doctorate degree at North Carolina State University in crop science with a focus on multi-omics, genotype-by-environment interactions, and AI. Working towards a research management position in the agricultural sector. Intensely curious: Interested in the continuous ccollection of knowledge enabling the application of novel research. Highly analytical: Thrives on analyzing large datasets and solving complex problems. People centric: Has enjoyed many opportunities given to lead and serve others.
+Aspires to make a positive impact on the community and combat global malnutrition through genetic research in the agriculture sector. 
+
+__Core Charactaristics__
+
+-_Values:_ Raised in a highly work-oriented lifestyle centered on integrity, respect, loyalty, and grit.
+-_Intensely curious:_ Interested in the continuous ccollection of knowledge enabling novel research.
+-_Highly analytical:_ Thrives on analyzing large datasets and solving complex problems. 
+-_People centric:_ Has enjoyed many opportunities to lead and serve others.
 
 ## Education
 
@@ -20,8 +27,7 @@ __North Carolina State University__, Raleigh, NC
 
 - Participates in organizations such as the Maize Genetics Cooperation and NCSU Plant Science Initiative
 - Actively engages in data collection and analysis for the Genomes to Fields Initiative
-- Effectively conducts and presents novel genetic research
-- Plays a pivotal role in genetic data analysis and data science
+- Conducts novel research with a focus on multi-omics, genotype-by-environment interactions, and AI
   
 ### BS in Agronomy, Minor in Data Science
 `April 2022`
@@ -32,8 +38,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Agronomic course work in plant genetics and breeding, plant pathology, soil fertility, genetics and molecular biology, and precision agriculture
 - Data science course work with machine learning, statistics, python, SQL, R, object-oriented programming, data wrangling and visualization
 - Other noteworthy courses include economics, GIS, and chemistry
-
-
 
 
 ## Related Experience
@@ -50,7 +54,7 @@ __North Carolina State University__, Raleigh, NC
 
 ### Congenital Heart Disease Board Member
 `April 2024 - Present`
-__Independent Contractor - Duke University__, Durham, NC
+__Duke University__, Durham, NC
 
 - Ensures good ethics are followed in regard to genetic work on families with heart disease
 - Clarifies and simplifies genetic terminology for board members
