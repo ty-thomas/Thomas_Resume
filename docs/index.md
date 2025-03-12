@@ -16,12 +16,12 @@ Aspires to make a positive impact on the community and combat global malnutritio
 
 <br />
 
-__Core Charactaristics__
+__Core Characteristics__
 
 - _Values:_ Raised in a work-oriented lifestyle centered on integrity, respect, loyalty, and grit.
 - _Intensely curious:_ Engages in continuous collection of knowledge enabling novel research.
 - _Highly analytical:_ Thrives on analyzing large datasets and solving complex problems. 
-- _People centric:_ Has enjoyed many opportunities to lead and serve others.
+- _People-centric:_ Has enjoyed many opportunities to lead and serve others.
 
 ## Education
 
